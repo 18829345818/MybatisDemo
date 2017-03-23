@@ -259,8 +259,10 @@ public class XMLConfigBuilder extends BaseBuilder {
 			parser.setVariables(defaults);
 			configuration.setVariables(defaults);
 		}
-		System.out.println("propertiesElement parser " + parser.toString());
-		System.out.println("propertiesElement variables " + configuration.getVariables().toString());
+		if(null != parser)
+			System.out.println("propertiesElement parser " + parser.toString());
+		if(null != configuration.getVariables())
+			System.out.println("propertiesElement variables " + configuration.getVariables().toString());
 	}
 
 	private void settingsElement(Properties props) throws Exception {
