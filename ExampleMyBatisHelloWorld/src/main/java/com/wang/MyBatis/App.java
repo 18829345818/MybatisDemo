@@ -14,8 +14,6 @@ public class App {
 		insertUser();
 		// deleteUser();
 		selectUserById();
-
-		selectUserById();
 		// selectAllUser();
 	}
 
@@ -58,9 +56,7 @@ public class App {
 		SqlSession session = DBTools.getSession();
 		UserMapper mapper = session.getMapper(UserMapper.class);
 		try {
-			UserBean user = mapper.selectUserById(12);
-			mapper.selectUserById(12);
-			mapper.selectUserById(12);
+			UserBean user = mapper.selectUserById(9192);
 			if (null != user) {
 				System.out.println(user.toString());
 			}
