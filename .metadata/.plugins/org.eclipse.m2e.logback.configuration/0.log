@@ -290,3 +290,390 @@
 2017-03-23 22:29:58,552 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\mybatis-3-mybatis-3.4.2\src\main\resources
 2017-03-23 22:29:58,554 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
 2017-03-23 22:29:58,555 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\mybatis-3-mybatis-3.4.2\src\test\resources
+2017-03-23 22:54:38,071 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 22:54:38,076 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\main\resources
+2017-03-23 22:54:38,077 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 22:54:38,077 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\test\resources
+2017-03-23 23:05:40,510 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:05:40,510 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\main\resources
+2017-03-23 23:05:40,512 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:05:40,512 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\test\resources
+2017-03-23 23:07:51,582 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:07:51,583 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\main\resources
+2017-03-23 23:07:51,584 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:07:51,585 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\test\resources
+2017-03-23 23:08:16,910 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:08:16,910 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\main\resources
+2017-03-23 23:08:16,912 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:08:16,912 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\test\resources
+2017-03-23 23:08:30,850 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:08:30,850 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\main\resources
+2017-03-23 23:08:30,851 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:08:30,851 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\test\resources
+2017-03-23 23:20:13,128 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:20:13,128 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\DefaultObjectFactory\src\main\resources
+2017-03-23 23:20:13,130 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:20:13,130 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\DefaultObjectFactory\src\test\resources
+2017-03-23 23:20:20,517 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:20:20,518 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisAssociation\src\main\resources
+2017-03-23 23:20:20,518 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:20:20,519 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisAssociation\src\test\resources
+2017-03-23 23:20:28,498 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:20:28,498 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\main\resources
+2017-03-23 23:20:28,503 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:20:28,503 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\test\resources
+2017-03-23 23:20:34,492 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:20:34,492 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\main\resources
+2017-03-23 23:20:34,493 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:20:34,493 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\test\resources
+2017-03-23 23:20:40,373 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:20:40,373 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisPage\src\main\resources
+2017-03-23 23:20:40,375 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:20:40,376 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisPage\src\test\resources
+2017-03-23 23:20:45,395 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:20:45,395 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisRowBounds\src\main\resources
+2017-03-23 23:20:45,398 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:20:45,398 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisRowBounds\src\test\resources
+2017-03-23 23:20:50,801 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:20:50,801 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisSafeRowBoundsEnabled\src\main\resources
+2017-03-23 23:20:50,803 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:20:50,804 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisSafeRowBoundsEnabled\src\test\resources
+2017-03-23 23:20:57,345 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 23:20:57,349 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\mybatis-3-mybatis-3.4.2\src\main\resources
+2017-03-23 23:20:57,350 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 23:20:57,351 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\mybatis-3-mybatis-3.4.2\src\test\resources
+2017-03-23 23:21:02,653 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:21:02,653 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandler\src\main\resources
+2017-03-23 23:21:02,654 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:21:02,654 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandler\src\test\resources
+2017-03-23 23:21:07,358 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:21:07,358 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandlerTimeStamp\src\main\resources
+2017-03-23 23:21:07,359 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:21:07,359 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandlerTimeStamp\src\test\resources
+2017-03-23 23:21:12,009 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:21:12,009 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisListTypeHandler\src\main\resources
+2017-03-23 23:21:12,013 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-23 23:21:12,013 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisListTypeHandler\src\test\resources
+2017-04-04 23:07:11,797 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\DefaultObjectFactory\pom.xml.
+2017-04-04 23:07:11,802 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\DefaultObjectFactory\pom.xml.
+2017-04-04 23:07:16,458 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:16,460 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\DefaultObjectFactory\src\main\resources
+2017-04-04 23:07:16,465 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:16,465 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\DefaultObjectFactory\src\test\resources
+2017-04-04 23:07:18,520 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\MyBatisDateTypeHandlerTimeStamp\pom.xml.
+2017-04-04 23:07:18,523 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\DefaultObjectFactory\pom.xml.
+2017-04-04 23:07:18,732 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:18,733 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandlerTimeStamp\src\main\resources
+2017-04-04 23:07:18,735 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:18,735 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandlerTimeStamp\src\test\resources
+2017-04-04 23:07:19,019 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\MyBatisListTypeHandler\pom.xml.
+2017-04-04 23:07:19,169 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:19,169 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisListTypeHandler\src\main\resources
+2017-04-04 23:07:19,171 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:19,172 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisListTypeHandler\src\test\resources
+2017-04-04 23:07:21,252 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\DefaultObjectFactory\pom.xml.
+2017-04-04 23:07:21,467 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisAssociation\pom.xml.
+2017-04-04 23:07:23,072 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\pom.xml.
+2017-04-04 23:07:23,376 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\pom.xml.
+2017-04-04 23:07:23,991 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisPage\pom.xml.
+2017-04-04 23:07:24,350 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisRowBounds\pom.xml.
+2017-04-04 23:07:24,619 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisSafeRowBoundsEnabled\pom.xml.
+2017-04-04 23:07:24,816 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.mybatis:mybatis:3.4.2.1 @ D:\workspace\mybatisDemo\mybatis-3-mybatis-3.4.2\pom.xml.
+2017-04-04 23:07:25,445 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\DefaultObjectFactory\pom.xml.
+2017-04-04 23:07:25,601 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\MyBatisDateTypeHandlerTimeStamp\pom.xml.
+2017-04-04 23:07:25,681 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\MyBatisListTypeHandler\pom.xml.
+2017-04-04 23:07:27,272 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-04 23:07:27,276 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\mybatis-3-mybatis-3.4.2\src\main\resources
+2017-04-04 23:07:27,279 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-04 23:07:27,280 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\mybatis-3-mybatis-3.4.2\src\test\resources
+2017-04-04 23:07:27,835 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\DefaultObjectFactory\pom.xml.
+2017-04-04 23:07:27,978 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisAssociation\pom.xml.
+2017-04-04 23:07:28,288 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\MyBatisDateTypeHandler\pom.xml.
+2017-04-04 23:07:28,828 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:28,829 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandler\src\main\resources
+2017-04-04 23:07:28,830 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:28,831 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandler\src\test\resources
+2017-04-04 23:07:29,071 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisSafeRowBoundsEnabled\pom.xml.
+2017-04-04 23:07:29,576 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:29,577 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisSafeRowBoundsEnabled\src\main\resources
+2017-04-04 23:07:29,578 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:29,578 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisSafeRowBoundsEnabled\src\test\resources
+2017-04-04 23:07:29,795 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisRowBounds\pom.xml.
+2017-04-04 23:07:30,285 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:30,285 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisRowBounds\src\main\resources
+2017-04-04 23:07:30,287 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:30,287 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisRowBounds\src\test\resources
+2017-04-04 23:07:30,511 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisPage\pom.xml.
+2017-04-04 23:07:31,147 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:31,147 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisPage\src\main\resources
+2017-04-04 23:07:31,153 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:31,153 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisPage\src\test\resources
+2017-04-04 23:07:31,398 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\pom.xml.
+2017-04-04 23:07:31,830 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:31,830 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\main\resources
+2017-04-04 23:07:31,832 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:31,832 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\test\resources
+2017-04-04 23:07:32,079 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\pom.xml.
+2017-04-04 23:07:32,663 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:32,663 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\main\resources
+2017-04-04 23:07:32,665 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:32,666 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\test\resources
+2017-04-04 23:07:33,013 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisAssociation\pom.xml.
+2017-04-04 23:07:33,550 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:33,550 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisAssociation\src\main\resources
+2017-04-04 23:07:33,555 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:33,555 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisAssociation\src\test\resources
+2017-04-04 23:07:35,025 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\DefaultObjectFactory\pom.xml.
+2017-04-04 23:07:35,545 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisAssociation\pom.xml.
+2017-04-04 23:07:35,556 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:35,557 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\DefaultObjectFactory\src\main\resources
+2017-04-04 23:07:35,564 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:35,564 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\DefaultObjectFactory\src\test\resources
+2017-04-04 23:07:35,696 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:35,697 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandlerTimeStamp\src\main\resources
+2017-04-04 23:07:35,698 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:35,699 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandlerTimeStamp\src\test\resources
+2017-04-04 23:07:35,780 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:35,780 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisListTypeHandler\src\main\resources
+2017-04-04 23:07:35,782 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:35,782 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisListTypeHandler\src\test\resources
+2017-04-04 23:07:36,039 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\pom.xml.
+2017-04-04 23:07:36,250 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\pom.xml.
+2017-04-04 23:07:36,476 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisPage\pom.xml.
+2017-04-04 23:07:36,662 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisRowBounds\pom.xml.
+2017-04-04 23:07:36,815 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisSafeRowBoundsEnabled\pom.xml.
+2017-04-04 23:07:37,018 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\MyBatisDateTypeHandler\pom.xml.
+2017-04-04 23:07:37,208 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\MyBatisDateTypeHandlerTimeStamp\pom.xml.
+2017-04-04 23:07:37,294 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\MyBatisListTypeHandler\pom.xml.
+2017-04-04 23:07:37,359 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.mybatis:mybatis:3.4.2.1 @ D:\workspace\mybatisDemo\mybatis-3-mybatis-3.4.2\pom.xml.
+2017-04-04 23:07:38,449 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:38,450 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\DefaultObjectFactory\src\main\resources
+2017-04-04 23:07:38,451 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:38,451 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\DefaultObjectFactory\src\test\resources
+2017-04-04 23:07:38,502 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:38,503 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandlerTimeStamp\src\main\resources
+2017-04-04 23:07:38,505 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:38,505 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandlerTimeStamp\src\test\resources
+2017-04-04 23:07:38,584 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:38,584 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisListTypeHandler\src\main\resources
+2017-04-04 23:07:38,585 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:38,585 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisListTypeHandler\src\test\resources
+2017-04-04 23:07:38,908 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-04 23:07:38,909 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\mybatis-3-mybatis-3.4.2\src\main\resources
+2017-04-04 23:07:38,911 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-04 23:07:38,912 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\mybatis-3-mybatis-3.4.2\src\test\resources
+2017-04-04 23:07:39,233 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:39,234 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandler\src\main\resources
+2017-04-04 23:07:39,236 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:39,236 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandler\src\test\resources
+2017-04-04 23:07:39,522 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:39,522 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisSafeRowBoundsEnabled\src\main\resources
+2017-04-04 23:07:39,523 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:39,524 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisSafeRowBoundsEnabled\src\test\resources
+2017-04-04 23:07:39,891 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:39,892 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisRowBounds\src\main\resources
+2017-04-04 23:07:39,893 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:39,893 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisRowBounds\src\test\resources
+2017-04-04 23:07:40,289 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:40,290 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisPage\src\main\resources
+2017-04-04 23:07:40,291 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:40,291 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisPage\src\test\resources
+2017-04-04 23:07:40,558 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:40,559 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\main\resources
+2017-04-04 23:07:40,560 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:40,560 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\test\resources
+2017-04-04 23:07:40,965 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:40,965 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\main\resources
+2017-04-04 23:07:40,967 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:40,967 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\test\resources
+2017-04-04 23:07:41,346 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:41,346 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisAssociation\src\main\resources
+2017-04-04 23:07:41,347 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:07:41,348 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisAssociation\src\test\resources
+2017-04-04 23:21:46,288 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:21:46,288 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\main\resources
+2017-04-04 23:21:46,304 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:21:46,304 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\test\resources
+2017-04-04 23:23:08,003 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:23:08,003 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\main\resources
+2017-04-04 23:23:08,003 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:23:08,003 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\test\resources
+2017-04-04 23:24:22,430 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:24:22,430 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\main\resources
+2017-04-04 23:24:22,430 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:24:22,430 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\test\resources
+2017-04-04 23:24:39,102 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:24:39,102 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\main\resources
+2017-04-04 23:24:39,102 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:24:39,102 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\test\resources
+2017-04-04 23:25:07,954 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:25:07,954 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\main\resources
+2017-04-04 23:25:07,954 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:25:07,954 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\test\resources
+2017-04-04 23:26:20,844 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:26:20,844 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\main\resources
+2017-04-04 23:26:20,844 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:26:20,844 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\test\resources
+2017-04-04 23:26:43,990 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:26:43,990 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\main\resources
+2017-04-04 23:26:43,990 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:26:43,990 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\test\resources
+2017-04-04 23:30:47,199 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:30:47,199 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\main\resources
+2017-04-04 23:30:47,199 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:30:47,199 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\test\resources
+2017-04-04 23:30:49,773 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:30:49,773 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\main\resources
+2017-04-04 23:30:49,773 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:30:49,773 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\test\resources
+2017-04-04 23:31:12,985 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:31:12,985 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\main\resources
+2017-04-04 23:31:12,985 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:31:12,985 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\test\resources
+2017-04-04 23:35:08,405 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:35:08,405 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\main\resources
+2017-04-04 23:35:08,421 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-04 23:35:08,421 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\test\resources
+2017-04-05 09:53:52,495 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\DefaultObjectFactory\pom.xml.
+2017-04-05 09:53:52,692 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisAssociation\pom.xml.
+2017-04-05 09:53:53,196 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\pom.xml.
+2017-04-05 09:53:53,323 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\pom.xml.
+2017-04-05 09:53:53,449 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisPage\pom.xml.
+2017-04-05 09:53:53,585 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisRowBounds\pom.xml.
+2017-04-05 09:53:53,736 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\ExampleMyBatisSafeRowBoundsEnabled\pom.xml.
+2017-04-05 09:53:53,872 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\MyBatisDateTypeHandler\pom.xml.
+2017-04-05 09:53:54,093 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\MyBatisDateTypeHandlerTimeStamp\pom.xml.
+2017-04-05 09:53:54,163 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wang:MyBatis:0.0.1 @ D:\workspace\mybatisDemo\MyBatisListTypeHandler\pom.xml.
+2017-04-05 09:53:54,251 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.mybatis:mybatis:3.4.2.1 @ D:\workspace\mybatisDemo\mybatis-3-mybatis-3.4.2\pom.xml.
+2017-04-05 09:53:56,526 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 09:53:56,527 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\DefaultObjectFactory\src\main\resources
+2017-04-05 09:53:56,531 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 09:53:56,531 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\DefaultObjectFactory\src\test\resources
+2017-04-05 09:53:57,406 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 09:53:57,406 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandlerTimeStamp\src\main\resources
+2017-04-05 09:53:57,409 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 09:53:57,409 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandlerTimeStamp\src\test\resources
+2017-04-05 09:53:57,644 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 09:53:57,644 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisListTypeHandler\src\main\resources
+2017-04-05 09:53:57,646 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 09:53:57,647 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisListTypeHandler\src\test\resources
+2017-04-05 09:54:02,106 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-05 09:54:02,109 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\mybatis-3-mybatis-3.4.2\src\main\resources
+2017-04-05 09:54:02,111 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-05 09:54:02,112 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\mybatis-3-mybatis-3.4.2\src\test\resources
+2017-04-05 09:54:02,648 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 09:54:02,648 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandler\src\main\resources
+2017-04-05 09:54:02,650 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 09:54:02,651 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandler\src\test\resources
+2017-04-05 09:54:03,202 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 09:54:03,202 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisSafeRowBoundsEnabled\src\main\resources
+2017-04-05 09:54:03,204 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 09:54:03,204 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisSafeRowBoundsEnabled\src\test\resources
+2017-04-05 09:54:03,719 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 09:54:03,719 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisRowBounds\src\main\resources
+2017-04-05 09:54:03,721 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 09:54:03,721 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisRowBounds\src\test\resources
+2017-04-05 09:54:04,210 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 09:54:04,210 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisPage\src\main\resources
+2017-04-05 09:54:04,226 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 09:54:04,226 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisPage\src\test\resources
+2017-04-05 09:54:04,802 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 09:54:04,802 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\main\resources
+2017-04-05 09:54:04,804 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 09:54:04,804 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\test\resources
+2017-04-05 09:54:05,328 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 09:54:05,329 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\main\resources
+2017-04-05 09:54:05,330 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 09:54:05,331 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\test\resources
+2017-04-05 09:54:05,828 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 09:54:05,828 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisAssociation\src\main\resources
+2017-04-05 09:54:05,832 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 09:54:05,833 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisAssociation\src\test\resources
+2017-04-05 14:05:21,745 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 14:05:21,746 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\DefaultObjectFactory\src\main\resources
+2017-04-05 14:05:21,748 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 14:05:21,748 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\DefaultObjectFactory\src\test\resources
+2017-04-05 14:05:21,858 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 14:05:21,860 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandlerTimeStamp\src\main\resources
+2017-04-05 14:05:21,863 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 14:05:21,864 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandlerTimeStamp\src\test\resources
+2017-04-05 14:05:21,951 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 14:05:21,952 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisListTypeHandler\src\main\resources
+2017-04-05 14:05:21,954 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 14:05:21,955 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisListTypeHandler\src\test\resources
+2017-04-05 14:05:22,591 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-05 14:05:22,596 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\mybatis-3-mybatis-3.4.2\src\main\resources
+2017-04-05 14:05:22,598 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-05 14:05:22,600 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\mybatis-3-mybatis-3.4.2\src\test\resources
+2017-04-05 14:05:23,205 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 14:05:23,205 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandler\src\main\resources
+2017-04-05 14:05:23,207 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 14:05:23,208 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandler\src\test\resources
+2017-04-05 14:05:23,696 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 14:05:23,696 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisSafeRowBoundsEnabled\src\main\resources
+2017-04-05 14:05:23,698 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 14:05:23,698 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisSafeRowBoundsEnabled\src\test\resources
+2017-04-05 14:05:24,317 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 14:05:24,317 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisRowBounds\src\main\resources
+2017-04-05 14:05:24,319 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 14:05:24,319 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisRowBounds\src\test\resources
+2017-04-05 14:05:24,864 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 14:05:24,865 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisPage\src\main\resources
+2017-04-05 14:05:24,869 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 14:05:24,870 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisPage\src\test\resources
+2017-04-05 14:05:25,383 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 14:05:25,384 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\main\resources
+2017-04-05 14:05:25,386 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 14:05:25,386 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\test\resources
+2017-04-05 14:05:25,960 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 14:05:25,962 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\main\resources
+2017-04-05 14:05:25,964 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 14:05:25,965 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\test\resources
+2017-04-05 14:05:26,475 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 14:05:26,478 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisAssociation\src\main\resources
+2017-04-05 14:05:26,480 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-05 14:05:26,481 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisAssociation\src\test\resources
+2017-04-09 14:12:55,598 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-09 14:12:55,602 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\DefaultObjectFactory\src\main\resources
+2017-04-09 14:12:55,605 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-09 14:12:55,606 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\DefaultObjectFactory\src\test\resources
+2017-04-09 14:12:56,343 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-09 14:12:56,345 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandlerTimeStamp\src\main\resources
+2017-04-09 14:12:56,348 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-09 14:12:56,348 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandlerTimeStamp\src\test\resources
+2017-04-09 14:12:56,455 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-09 14:12:56,457 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisListTypeHandler\src\main\resources
+2017-04-09 14:12:56,459 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-09 14:12:56,459 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisListTypeHandler\src\test\resources
+2017-04-09 14:12:57,025 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-09 14:12:57,027 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\mybatis-3-mybatis-3.4.2\src\main\resources
+2017-04-09 14:12:57,029 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-09 14:12:57,032 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\mybatis-3-mybatis-3.4.2\src\test\resources
+2017-04-09 14:12:57,662 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-09 14:12:57,662 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandler\src\main\resources
+2017-04-09 14:12:57,664 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-09 14:12:57,666 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\MyBatisDateTypeHandler\src\test\resources
+2017-04-09 14:12:58,175 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-09 14:12:58,176 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisSafeRowBoundsEnabled\src\main\resources
+2017-04-09 14:12:58,178 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-09 14:12:58,178 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisSafeRowBoundsEnabled\src\test\resources
+2017-04-09 14:12:58,595 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-09 14:12:58,596 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisRowBounds\src\main\resources
+2017-04-09 14:12:58,598 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-09 14:12:58,599 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisRowBounds\src\test\resources
+2017-04-09 14:12:59,030 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-09 14:12:59,031 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisPage\src\main\resources
+2017-04-09 14:12:59,035 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-09 14:12:59,036 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisPage\src\test\resources
+2017-04-09 14:12:59,409 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-09 14:12:59,410 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\main\resources
+2017-04-09 14:12:59,412 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-09 14:12:59,412 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisLogConfig\src\test\resources
+2017-04-09 14:12:59,851 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-09 14:12:59,851 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\main\resources
+2017-04-09 14:12:59,852 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-09 14:12:59,856 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisHelloWorld\src\test\resources
+2017-04-09 14:13:00,167 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-09 14:13:00,169 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisAssociation\src\main\resources
+2017-04-09 14:13:00,170 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-09 14:13:00,170 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\mybatisDemo\ExampleMyBatisAssociation\src\test\resources

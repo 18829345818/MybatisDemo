@@ -16,7 +16,7 @@ public class App {
 	public static void main(String[] args) {
 		insertUser();
 		// deleteUser();
-		// selectUserById();
+		selectUserById();
 		// selectAllUser();
 	}
 
@@ -59,7 +59,7 @@ public class App {
 		SqlSession session = DBTools.getSession();
 		UserMapper mapper = session.getMapper(UserMapper.class);
 		try {
-			UserBean user = mapper.selectUserById((int) id);
+			UserBean user = mapper.selectUserById(1);
 			if (null != user) {
 				System.out.println(user.toString());
 			}
