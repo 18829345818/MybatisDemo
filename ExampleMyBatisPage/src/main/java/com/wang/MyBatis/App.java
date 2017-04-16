@@ -13,7 +13,8 @@ import com.wang.MyBatis.tools.DBTools;
 public class App {
 
 	public static void main(String[] args) {
-		// insertUser();
+		//for(int i=0;i<100;i++)
+		 insertUser();
 		/*
 		 * insertUser(); // deleteUser(); selectUserById();
 		 * 
