@@ -27,8 +27,6 @@ public class App {
 		
 		selectUserByIDs(null);
 		
-		selectUserByChooseCondition(160.0,170.0,"male","南京");
-		
 		selectUserByChooseCondition(160.0,170.0,null,"南京");
 		
 		selectUserByChooseCondition(160.0,170.0,"male",null);
@@ -103,7 +101,7 @@ public class App {
 			params.put("maxhigh", maxhigh);
 			params.put("sex", sex);
 			params.put("cityName", cityName);
-			List<UserBean> users = mapper.selectUserByChooseCondition(params);
+			List<UserBean> users = mapper.selectUserByCondition(params);
 			if (null != users) {
 				System.out.println(users.size());
 			}

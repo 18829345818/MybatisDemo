@@ -53,14 +53,16 @@
 
 	<select id="selectUserByChooseCondition" resultMap="userMap">
 		select * from user
-		<choose>
-			<when test="cityName != null">
-				cityName = #{cityName}
-			</when>
-			<when test="sex != null ">
-				AND sex = #{sex}
-			</when>
-		</choose>
+		<where>
+			<choose>
+				<when test="cityName != null">
+					cityName = #{cityName}
+				</when>
+				<when test="sex != null ">
+					AND sex = #{sex}
+				</when>
+			</choose>
+		</where>
 	</select>
 
 	<update id="UpdateByIdCondition" parameterType="com.wang.MyBatis.model.UserBean">

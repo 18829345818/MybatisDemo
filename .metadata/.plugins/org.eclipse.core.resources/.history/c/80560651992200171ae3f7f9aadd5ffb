@@ -54,14 +54,14 @@
 	<select id="selectUserByChooseCondition" resultMap="userMap">
 		select * from user
 		<where>
-			<choose>
-				<when test="cityName != null">
-					cityName = #{cityName}
-				</when>
-				<when test="sex != null ">
-					AND sex = #{sex}
-				</when>
-			</choose>
+		<choose>
+			<when test="cityName != null">
+				cityName = #{cityName}
+			</when>
+			<when test="sex != null ">
+				AND sex = #{sex}
+			</when>
+		</choose>
 		</where>
 	</select>
 

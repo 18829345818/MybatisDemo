@@ -103,7 +103,7 @@ public class App {
 			params.put("maxhigh", maxhigh);
 			params.put("sex", sex);
 			params.put("cityName", cityName);
-			List<UserBean> users = mapper.selectUserByChooseCondition(params);
+			List<UserBean> users = mapper.selectUserByCondition(params);
 			if (null != users) {
 				System.out.println(users.size());
 			}
